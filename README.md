@@ -4,8 +4,9 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&pause=1000&color=08B95B&background=270000&width=435&lines=Welcome+to+my+GitHub!;Learning;Experimenting;Innovating+Projects;and+Finding solutions+Every+Day)]](https://readme-typing-svg.demolab.com/demo/?font=Lora&weight=500&color=08B95B&background=270000)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning;Experimenting;Innovating+Projects;and+Finding solutions+Every+Day" />
 </p>
+
 
 ---
 
