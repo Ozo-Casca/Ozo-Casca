@@ -4,9 +4,8 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning;Experimenting;Innovating+Projects;and+Finding solutions+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning;Experimenting;Innovating+Projects;and+Finding solutions+Every+Day"/>
 </p>
-
 
 ---
 
@@ -46,8 +45,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozo-Casca&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozo-Casca&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ### 🔥 Contribution Streak
