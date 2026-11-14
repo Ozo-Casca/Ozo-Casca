@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="C:\Users\chhav\Downloads\Modern Minimal Gradient Background Technology Banner.png"
+    src="[C:\Users\chhav\Downloads\Modern Minimal Gradient Background Technology Banner.png](https://github.com/Ozo-Casca/Ozo-Casca/blob/main/Modern%20Minimal%20Gradient%20Background%20Technology%20Banner.png?raw=true)"
     width="100%"
     alt="Minimal Profile Banner"
   />
