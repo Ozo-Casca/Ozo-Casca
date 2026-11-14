@@ -57,15 +57,17 @@
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/chhavi-maurya-737193318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/Ozo-Casca">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.instagram.com/chhavimaury/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-black?style=for-the-badge&logo=instagram" />
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
