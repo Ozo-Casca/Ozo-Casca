@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning;Experimenting;Innovating+Projects;and+Finding solutions+Every+Day"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Data+Science+%26+AI+Enthusiast;Exploring+Technology+and+Innovation;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,8 +45,16 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ozo-Casca&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozo-Casca&layout=compact&theme=tokyonight" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ozo-Casca&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozo-Casca&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ### 🔥 Contribution Streak
