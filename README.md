@@ -55,7 +55,7 @@
   <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight" />
 </p>
 
-<h2 align="left">🌐 Connect With Me</h2>
+### 🌐 Connect With Me 
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME" target="_blank">
