@@ -45,16 +45,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ozo-Casca&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozo-Casca&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Streak
