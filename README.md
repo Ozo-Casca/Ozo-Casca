@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=400&size=23&duration=1600&pause=250&color=A3B18A&background=5A0F1B&center=true&vCenter=true&width=850&height=55&lines=Exploring;Learning;Experimenting;Innovating;And;Solving+Problems+Every+Day" alt="Exploring, Learning, Experimenting, Innovating and Solving Problems Every Day" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Angeletta&weight=500&size=26&duration=1600&pause=250&color=A3B18A&background=3B0912&center=true&vCenter=true&width=850&height=65&lines=Exploring%2C;Learning%2C;Experimenting%2C;Innovating%2C;And%2C;Solving+Problems+Every+Day%2C" alt="Animated personal tagline" />
 </p>
 
 ---
