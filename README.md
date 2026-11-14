@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img
+    src="C:\Users\chhav\Downloads\Modern Minimal Gradient Background Technology Banner.png"
+    width="100%"
+    alt="Minimal Profile Banner"
+  />
+</p>
+
 <h1 align="center">Hi 👋, This is Chhavi</h1>
 
 <h3 align="center">Aspiring Software Engineer</h3>
