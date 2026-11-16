@@ -19,7 +19,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Pursuing BCA in **Data Science & Artificial Intelligence**.
+- 🎓 Pursuing Bachelor's Computer Application in **Data Science & Artificial Intelligence**.
 - 💡 Curious about how technology, data and intelligent systems shape the future.
 - 🌱 Currently strengthening my foundations in **Python, Java, SQL and Data Science**.
 - 📊 Interested in **Data, Softwares, Machine Learning and Artificial Intelligence**.
@@ -66,13 +66,13 @@
 ### 🌐 Connect With Me 
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Ozo-Casca" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/chhavimaury/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/chhavi-maurya-737193318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/chhavimaury" target="_blank">
